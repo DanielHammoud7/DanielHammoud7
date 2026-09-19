@@ -1,6 +1,6 @@
-### Hi, I'm an Information Technology Engineering student @syrianvirutaluniversity
+Hi, I'm an Information Technology Engineering student @syrianvirutaluniversity
 
-#### Security Researcher & Web App Auditor diving deep into Cryptography and Bug Bounty.
+Security Researcher & Web App Auditor diving deep into Cryptography and Bug Bounty.
 
 - 🛠️ **Primary Stack:** Python (Obsessed), Bash, VS Code
 - 🛡️ **Security Arsenal:** Burp Suite, Nmap, Manual Web Inspection
