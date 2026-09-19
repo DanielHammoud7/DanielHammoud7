@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm an Information Technology Engineering student @syrianvirutaluniversity
 
-<!--
-**DanielHammoud7/DanielHammoud7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Security Researcher & Web App Auditor diving deep into Cryptography and Bug Bounty.
 
-Here are some ideas to get you started:
+- 🛠️ **Primary Stack:** Python (Obsessed), Bash, VS Code
+- 🛡️ **Security Arsenal:** Burp Suite, Nmap, Manual Web Inspection
+- 🎯 **Track Record:** Reported 15+ security bugs across 5 companies (Public/Private BB)
+- 🧠 **Research Interests:** Web Vulnerabilities, Modern Cryptography, Offensive Tooling
+- 🏊 **Off-screen:** Competitive Swimming Coach
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Code fast, think hard, exploit tough, stay calm."*
+
+📫 Open to CyberSec internships & technical collaborations in Web Security & Crypto.
